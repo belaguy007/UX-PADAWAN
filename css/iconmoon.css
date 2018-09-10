@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-behance:before {
+  content: "\eaa8";
+}
 
 .iconmoon-share2:before {
 	content: "\ea82";
